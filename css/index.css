@@ -24,13 +24,13 @@ p {
 
 @media (min-width:1380px) and (max-width:1500px) {
     html {
-        font-size: 18px;
+        font-size: 16px;
     }
 }
 
 @media (min-width:1501px) {
     html {
-        font-size: 18px;
+        font-size: 16px;
     }
 }
 body{
